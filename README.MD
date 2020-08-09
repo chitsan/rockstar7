@@ -16,8 +16,15 @@ Learn **Mongo**
  >Feels like long.
  
  >>####Needs the following tools 
+ >>
+ >>
  >>-time
+ >>
  >>-money
+ >>
  >>-discipline
+ >>
  >>-a little patience
+ >>
+ >>
  >>I really ***wish*** I got **this time**.
