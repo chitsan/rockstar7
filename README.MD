@@ -6,3 +6,5 @@ Learn **Node.js**
 
 Learn **Mongo**
 
+**React** need *npm* to install.
+
