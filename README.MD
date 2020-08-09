@@ -1,8 +1,8 @@
 #Rockstar 7
 ## Learning React
-Learn React
+Learn **React**
 
-Learn Node.js
+Learn **Node.js**
 
-Learn Mongo
+Learn **Mongo**
 
